@@ -1,0 +1,1 @@
+# Personal-Trainer-IA-Boas-Pr-ticas-de-Prompt-Engineering
